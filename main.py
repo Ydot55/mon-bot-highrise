@@ -1,0 +1,18 @@
+    # !playlist
+    elif message == "!playlist":
+        await self.highrise.chat("🎶 PLAYLIST PARTIE 1 - FRANCAIS :")
+        await self.highrise.chat("1. Aya Nakamura - Djadja / 2. Dadju - Reine")
+        await self.highrise.chat("3. Dadju - Bob Marley / 4. Tayc - Le temps")
+        await self.highrise.chat("5. Niska - Réseaux / 6. Jul - Tchikita")
+        await self.highrise.chat("7. Tiakola - Meuda / 8. Gazo - Casanova")
+        await self.highrise.chat("🎶 PARTIE 2 - AFROBEATS :")
+        await self.highrise.chat("9. Rema - Calm Down / 10. Burna Boy - Last Last")
+        await self.highrise.chat("11. Asake - Lonely At The Top / 12. Ayra Starr - Rush")
+        await self.highrise.chat("13. Wizkid - Essence / 14. Davido - Fall")
+        await self.highrise.chat("15. Tems - Love Me JeJe")
+        await self.highrise.chat("🎶 PARTIE 3 - CÔTE D'IVOIRE 🇨🇮 :")
+        await self.highrise.chat("16. Didi B - Tala / 17. Himra - Banger")
+        await self.highrise.chat("18. Suspect 95 - Société Suspecte")
+        await self.highrise.chat("19. Didi B ft Dadju - Maître")
+        await self.highrise.chat("20. Himra ft Didi B - Zogo")
+        await self.highrise.chat("21. KS Bloom - C'est Dieu")
